@@ -1,6 +1,6 @@
 # DeFi-Resources
 
-**Curve Wars**
+## Curve Wars
 
 [This is why the Curve Wars are being fought](https://incentivized.substack.com/p/this-is-why-the-curve-wars-are-being)
 
@@ -12,19 +12,21 @@
 
 [How Dopex Might Change the Curve Wars Forever](https://incentivized.substack.com/p/how-dopex-might-change-the-curve?s=r)
 
+[The Butterfly Twist - Another Twist in the Curve Wars](https://richmorecapital.substack.com/p/the-butterfly-wars-another-twist?utm_source=url&s=r)
 
 
-**Money Market Protocols**
 
-**Yield Bearing Assets**
+## Money Market Protocols
 
-**Stablecoins**
+## Yield Bearing Assets
 
-**Derivatives**
+## Stablecoins
 
-**Fixed income Products**
+## Derivatives
 
-**Layer 2**
+## Fixed income Products
+
+## Layer 2
 
 
 https://incentivized.substack.com/
