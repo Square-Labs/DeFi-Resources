@@ -10,8 +10,6 @@
 
 [Bribing veCRV gauges 101](https://andrecronje.medium.com/bribing-vecrv-gauges-101-8f6e4506bb62)
 
-
-
 [What the ████ is [redacted]?](https://incentivized.substack.com/p/what-the-is-redacted?s=r)
 
 [How Dopex Might Change the Curve Wars Forever](https://incentivized.substack.com/p/how-dopex-might-change-the-curve?s=r)
@@ -32,7 +30,7 @@
 
 [Automated Market Makers for Decentralized Finance](https://arxiv.org/pdf/2009.01676.pdf)
 
-[]
+[Design of a Betting Market (SportX) AMM](https://docs.sportx.bet/sportx-roadmap/sportx-amm)
 
 
 ## Yield and Interest Rates
@@ -41,7 +39,7 @@
 
 [The Quest for Yield - Market Neutral Strategies in Crypto](https://medium.com/gamma-point-capital/the-quest-for-yield-market-neutral-strategies-in-crypto-2762da22f315)
 
-[]()
+[There ain't no such thing as free APR © Reverse-engineering professional validators and brrr.](https://lobsters.substack.com/p/there-aint-no-such-thing-as-free?s=r)
 
 ## Stablecoins
 
@@ -128,6 +126,12 @@
 [The Metaverse Gold Rush](https://ctzpy.substack.com/p/the-metaverse-gold-rush?r=pag93)
 
 [MetaFi: When DeFi meets Meta](https://www.bnbchain.world/en/blog/metafi-when-defi-meets-meta/)
+
+## Risks and Hedging in DeFi
+
+[Illiquidity and Bank Run Risk in Defi](https://medium.com/alethio/overlooked-risk-illiquidity-and-bank-runs-on-compound-finance-5d6fc3922d0d)
+
+[]
 
 ## NFTs in DeFi
 
