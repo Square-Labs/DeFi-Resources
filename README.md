@@ -8,6 +8,10 @@
 
 [How Bribes Drive the Curve Wars](https://incentivized.substack.com/p/how-bribes-drive-the-curve-wars?s=r)
 
+[Bribing veCRV gauges 101](https://andrecronje.medium.com/bribing-vecrv-gauges-101-8f6e4506bb62)
+
+
+
 [What the ████ is [redacted]?](https://incentivized.substack.com/p/what-the-is-redacted?s=r)
 
 [How Dopex Might Change the Curve Wars Forever](https://incentivized.substack.com/p/how-dopex-might-change-the-curve?s=r)
@@ -16,12 +20,19 @@
 
 
 
-## Money Market Protocols
-
-
 ## Cryptocurrencies (General)
 
 [Cryptocurrencies and Velocity of Money](https://cryptoeconomicsystems.pubpub.org/pub/pernice-cryptocurrencies-velocity/release/9)
+
+## Money Market Protocols
+
+[Venus Interest Rate Model](https://blog.venus.io/venus-interest-rate-model-v1-347f551289c4?gi=871b764147d5)
+
+## Automated Market Makers
+
+[Automated Market Makers for Decentralized Finance](https://arxiv.org/pdf/2009.01676.pdf)
+
+[]
 
 
 ## Yield and Interest Rates
@@ -74,11 +85,41 @@
 
 
 
-## Fixed income Products
+## Fixed income Products/Interest Rate Derivatives
+
+[Cash-Flow Instruments pt 1: History](https://swivel.substack.com/p/cash-flow-instruments-pt-1-history?s=r)
+
+[Cash-Flow Instruments pt 2: DeFi Cash-Flows](https://swivel.substack.com/p/cash-flow-instruments-pt-2-defi-cash?s=r)
+
+[Cash-Flow Instruments pt 3: Interest-Coupons](https://swivel.substack.com/p/cash-flow-instruments-pt-3-interest?s=r)
+
 
 ## Game Finance
 
+[Complete Guide on DeFi Kingdom](https://medium.com/@Samichpunch/index-of-samichpunch-defi-kingdoms-articles-dda9e50327ef)
+
 ## Terra Ecosystem
+
+[Terra Money - A Primer](https://dirtroads.substack.com/p/-20-from-the-earth-to-the-moon?s=r)
+
+[Anchor Protocol](https://pathfindercapital.substack.com/p/anchor-protocol?s=r)
+
+[LUNA Part-1: Demystifying Anchor, Terra Money-Spinner](https://dirtroads.substack.com/p/-21-from-the-earth-to-the-moon-ii?s=r)
+
+[LUNA Part-2: Anchor Protocol: Too Big to Thrive](https://dirtroads.substack.com/p/-34-anchor-protocol-too-big-to-thrive?s=w&utm_medium=web)
+
+[LUNA Part-3: I'll Be Your Mirror, Reflect What You Are](https://dirtroads.substack.com/p/-22-ill-be-your-mirror-reflect-what?s=r)
+
+## Bonds
+
+[Olympus, Devourer of Planets](https://dirtroads.substack.com/p/-18-olympus-devourer-of-planets?s=r)
+
+[Olympus (II), a Coming-of-Age Story](https://dirtroads.substack.com/p/-33-olympus-ii-a-coming-of-age-story?s=r)
+
+## Undercollateralized Lending
+
+[Primitive Obsession (II): I Have Been Trying to Understand Goldfinch and Uncollateralised Lending](https://dirtroads.substack.com/p/-13-primitive-obsession-ii-i-have?s=r)
+
 
 ## Web3 and Metaverse
 
@@ -89,6 +130,10 @@
 [MetaFi: When DeFi meets Meta](https://www.bnbchain.world/en/blog/metafi-when-defi-meets-meta/)
 
 ## NFTs in DeFi
+
+[veNFTs](https://andrecronje.medium.com/ve-3-3-44466eaa088b)
+
+
 
 ## DeFi Infrastructure
 
