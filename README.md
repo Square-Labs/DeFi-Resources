@@ -50,7 +50,9 @@
 
 [MetaFi: When DeFi meets Meta](https://www.bnbchain.world/en/blog/metafi-when-defi-meets-meta/)
 
-## NFTs
+## NFTs in DeFi
+
+## DeFi Infrastructure
 
 
 
@@ -72,9 +74,13 @@
 
 [Danksharding](https://polynya.medium.com/danksharding-36dc0c8067fe)
 
+[How Rollup Fees Work?](https://polynya.medium.com/how-rollup-fees-work-ddaa34f64c08)
+
 [Understanding Rollup Economics from First Principles](https://barnabe.substack.com/p/understanding-rollup-economics-from)
 
+[Layer 2 for Beginners](https://gourmetcrypto.substack.com/p/layer-2-for-beginners?s=r)
 
+[Diving Into Immutable: An NFT Layer 2 Protocol To Rewrite Scalability](https://pizzaparty.substack.com/p/diving-into-immutable-an-nft-layer?s=r)
 
 ## Youtube Channels
 
