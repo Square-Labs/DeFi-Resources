@@ -65,6 +65,8 @@
 
 [How Binary Options Work?](https://sips.synthetix.io/sips/sip-53/)
 
+[Binary Options Reimagined Model](https://thalesmarket.medium.com/binary-options-r%CE%BE-imagin%CE%BEd-model-bae39d5a5b4f)
+
 
 ## Synthetic Assets
 
