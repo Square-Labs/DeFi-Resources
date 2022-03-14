@@ -36,6 +36,17 @@
 
 ## Derivatives
 
+[Ramblings on DeFi Derivatives](https://mirror.xyz/0x0C23E0dE114d28112f52203cb9583B9826b05dDe/8W5T5qFJerprS92FCF9858HFU-juoqoLJFwdEaH2re4)
+
+[Comparison of Decentralized Options Platforms](https://medium.com/coinmonks/an-update-of-a-comparison-of-decentralized-options-platforms-91b14d3a6170)
+
+[A Call to Farms: Dopex, Jones Dao, and the Future of DeFi Options](https://research.thetie.io/a-call-to-farms/)
+
+[Genesis Volatility Newsletter](https://genesisvolatility.substack.com/)
+
+[Option Flows - Commentary by Tony Stewart](https://insights.deribit.com/option-flows/)
+
+
 ## Fixed income Products
 
 ## Game Finance
