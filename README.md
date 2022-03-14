@@ -18,15 +18,41 @@
 
 ## Money Market Protocols
 
-## Yield Bearing Assets
+
+
+## Yield and Interest Rates
+
+[Incentivizing Pool Balances with Interest Rate Models](https://medium.com/platypus-finance/incentivizing-pool-balances-with-interest-rate-model-9302ff9f9cf4)
+
+[The Quest for Yield - Market Neutral Strategies in Crypto](https://medium.com/gamma-point-capital/the-quest-for-yield-market-neutral-strategies-in-crypto-2762da22f315)
+
+[]()
 
 ## Stablecoins
+
+[Introducing MoneyCRV - A New Stablecoin Pool with Vesting Rewards](https://yieldyak.medium.com/introducing-moneycrv-a-new-stablecoin-pool-with-vesting-rewards-a9a24f84e1e1)
+
+[]()
 
 ## Derivatives
 
 ## Fixed income Products
 
-# Game Finance
+## Game Finance
+
+## Terra Ecosystem
+
+## Web3 and Metaverse
+
+[web3's Role in the Metaverse](https://messari.io/article/web3-s-role-in-the-metaverse)
+
+[The Metaverse Gold Rush](https://ctzpy.substack.com/p/the-metaverse-gold-rush?r=pag93)
+
+[MetaFi: When DeFi meets Meta](https://www.bnbchain.world/en/blog/metafi-when-defi-meets-meta/)
+
+## NFTs
+
+
 
 ## Layer 1
 
@@ -44,3 +70,37 @@
 
 [Polygon Hermez Deep Dive: Bringing Scalability to Ethereum Using zk-Technology](https://medium.com/@pedronv/deep-dive-on-polygon-hermez-bringing-scalability-to-ethereum-using-zk-technology-4acfbcff78f4)
 
+[Danksharding](https://polynya.medium.com/danksharding-36dc0c8067fe)
+
+[Understanding Rollup Economics from First Principles](https://barnabe.substack.com/p/understanding-rollup-economics-from)
+
+
+
+## Youtube Channels
+
+[Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
+
+[Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto)
+
+[Finematics](https://www.youtube.com/c/Finematics)
+
+[99Bitcoins](https://www.youtube.com/c/Bitcoinwithpaypal)
+
+
+## Telegram Communities/Channels
+
+[The Daily Ape](https://t.me/thedailyape)
+
+[Decentralized.co](https://t.me/decentraliseddotco)
+
+[Satoshi Club](https://t.me/Satoshi_club)
+
+[Rekt HQ](https://t.me/Rekt_HQ)
+
+[Ceazor's Snack Sandwichery Chat](https://t.me/+TWh0FdQ9v9T0jBar)
+
+[Shualpha](https://t.me/Shualpha)
+
+[Cryptocurrency News](https://t.me/cryptocurrency)
+
+[Blockchain Lobsters](https://t.me/blockchain_lobsters)
