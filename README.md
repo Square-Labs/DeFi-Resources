@@ -22,6 +22,16 @@
 
 [Cryptocurrencies and Velocity of Money](https://cryptoeconomicsystems.pubpub.org/pub/pernice-cryptocurrencies-velocity/release/9)
 
+[Valuation Divergence in DeFi: Narrative or Data Matters?](https://llamacorn888.medium.com/valuation-divergence-in-defi-narrative-or-data-matters-17e8ffbf9744)
+
+[Futility Tokens: A utility-based post-mortem](https://tokeneconomy.co/futility-tokens-a-utility-based-post-mortem-d7b1712a5a4e)
+
+## Liquidity
+
+[Generalized Mining: The LPs Perspective](https://medium.com/cambrial-capital/generalised-mining-the-lps-perspective-72dfa2d22afd)
+
+
+
 ## Money Market Protocols
 
 [Venus Interest Rate Model](https://blog.venus.io/venus-interest-rate-model-v1-347f551289c4?gi=871b764147d5)
