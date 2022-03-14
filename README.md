@@ -42,7 +42,12 @@
 
 [A Classification Framework for Stablecoin Designs](https://arxiv.org/pdf/1910.10098.pdf)
 
-[]()
+[Stablecoins 2.0: Economic Foundations and Risk-based Models](https://arxiv.org/pdf/2006.12388.pdf)
+
+[On the Economic Design of Stablecoins](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3899499)
+
+
+
 
 ## Derivatives
 
@@ -58,8 +63,14 @@
 
 [A Deep Dive into Dopex and Ribbon](https://theknower.substack.com/p/a-deep-dive-into-dopex-and-ribbon?s=r)
 
+[How Binary Options Work?](https://sips.synthetix.io/sips/sip-53/)
 
-[]()
+
+## Synthetic Assets
+
+[Synthetix V3/A Little Dash of Hopium](https://blog.synthetix.io/a-little-dash-of-hopium/)
+
+
 
 ## Fixed income Products
 
