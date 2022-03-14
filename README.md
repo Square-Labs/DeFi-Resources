@@ -18,13 +18,18 @@
 
 
 
-## Cryptocurrencies (General)
+## Cryptocurrencies and DeFi (General)
 
 [Cryptocurrencies and Velocity of Money](https://cryptoeconomicsystems.pubpub.org/pub/pernice-cryptocurrencies-velocity/release/9)
 
 [Valuation Divergence in DeFi: Narrative or Data Matters?](https://llamacorn888.medium.com/valuation-divergence-in-defi-narrative-or-data-matters-17e8ffbf9744)
 
 [Futility Tokens: A utility-based post-mortem](https://tokeneconomy.co/futility-tokens-a-utility-based-post-mortem-d7b1712a5a4e)
+
+[How to Think About Token Generation Events Using DeFi](https://insights.deribit.com/market-research/how-to-think-about-token-generation-events-using-defi/)
+
+[Emerging Revenue Models in DeFi](https://medium.com/fitzner-blockchain-consulting/emerging-revenue-models-in-defi-7034a0de58a9)
+
 
 ## Liquidity
 
@@ -42,6 +47,9 @@
 
 [Design of a Betting Market (SportX) AMM](https://docs.sportx.bet/sportx-roadmap/sportx-amm)
 
+[Single Vault Model - The Lego Baseplate](https://insights.deribit.com/market-research/single-vault-model-the-lego-baseplate/)
+
+[Constant Function Market Makers](https://arxiv.org/pdf/2003.10001.pdf)
 
 ## Yield and Interest Rates
 
@@ -50,6 +58,7 @@
 [The Quest for Yield - Market Neutral Strategies in Crypto](https://medium.com/gamma-point-capital/the-quest-for-yield-market-neutral-strategies-in-crypto-2762da22f315)
 
 [There ain't no such thing as free APR © Reverse-engineering professional validators and brrr.](https://lobsters.substack.com/p/there-aint-no-such-thing-as-free?s=r)
+
 
 ## Stablecoins
 
@@ -64,8 +73,6 @@
 [Stablecoins 2.0: Economic Foundations and Risk-based Models](https://arxiv.org/pdf/2006.12388.pdf)
 
 [On the Economic Design of Stablecoins](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3899499)
-
-
 
 
 ## Derivatives
@@ -85,6 +92,18 @@
 [How Binary Options Work?](https://sips.synthetix.io/sips/sip-53/)
 
 [Binary Options Reimagined Model](https://thalesmarket.medium.com/binary-options-r%CE%BE-imagin%CE%BEd-model-bae39d5a5b4f)
+
+[Option Pricing and Delta Hedging in a non Black-Scholes World, Part -1](https://insights.deribit.com/industry/option-pricing-delta-hedging-in-a-non-black-scholes-world-pt-1/)
+
+[Reading the Tea Leaves Hidden in Derivatives Data](https://insights.deribit.com/industry/reading-the-tea-leaves-hidden-in-derivatives-data/)
+
+[Butterfly Options Trading Strategy](https://insights.deribit.com/industry/butterfly-options-trading-strategy/)
+
+[Option Model Delta and Its Considerations](https://insights.deribit.com/market-research/option-model-delta-and-considerations/)
+
+## Prediction Markets
+
+[The Problem with Prediction Markets](https://insights.deribit.com/market-research/the-problem-with-prediction-markets/)
 
 
 ## Synthetic Assets
@@ -128,6 +147,7 @@
 
 [Primitive Obsession (II): I Have Been Trying to Understand Goldfinch and Uncollateralised Lending](https://dirtroads.substack.com/p/-13-primitive-obsession-ii-i-have?s=r)
 
+[Exploring Goldfinch: Crypto Loans without Collateral](https://medium.com/goldfinch-fi/introducing-goldfinch-crypto-loans-without-collateral-fc0cad9d13e)
 
 ## Web3 and Metaverse
 
@@ -141,15 +161,18 @@
 
 [Illiquidity and Bank Run Risk in Defi](https://medium.com/alethio/overlooked-risk-illiquidity-and-bank-runs-on-compound-finance-5d6fc3922d0d)
 
-[]
+[Introducing the Kelly Machine](https://potion-protocol.medium.com/introducing-the-kelly-machine-53c0a9863af7)
 
 ## NFTs in DeFi
 
 [veNFTs](https://andrecronje.medium.com/ve-3-3-44466eaa088b)
 
+[Can NFTs Revitalize this DeFi Cycle?](https://polygondefi.substack.com/p/can-nfts-revitalize-this-defi-cycle?s=r)
 
 
 ## DeFi Infrastructure
+
+[Infrastructure Lego: The Middleware Thesis](https://insights.deribit.com/market-research/infrastructure-lego-the-middleware-thesis/)
 
 
 
@@ -178,6 +201,10 @@
 [Layer 2 for Beginners](https://gourmetcrypto.substack.com/p/layer-2-for-beginners?s=r)
 
 [Diving Into Immutable: An NFT Layer 2 Protocol To Rewrite Scalability](https://pizzaparty.substack.com/p/diving-into-immutable-an-nft-layer?s=r)
+
+[Making Sense of Rollups, Part One: Optimistic vs. Zero Knowledge](https://insights.deribit.com/market-research/making-sense-of-rollups-part-one-optimistic-vs-zero-knowledge/)
+
+[Making Sense of Rollups, Part 2: Dispute Resolution on Arbitrum and Optimism](https://insights.deribit.com/market-research/making-sense-of-rollups-part-2-dispute-resolution-on-arbitrum-and-optimism/)
 
 ## Youtube Channels
 
