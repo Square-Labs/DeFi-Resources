@@ -19,6 +19,10 @@
 ## Money Market Protocols
 
 
+## Cryptocurrencies (General)
+
+[Cryptocurrencies and Velocity of Money](https://cryptoeconomicsystems.pubpub.org/pub/pernice-cryptocurrencies-velocity/release/9)
+
 
 ## Yield and Interest Rates
 
@@ -31,6 +35,12 @@
 ## Stablecoins
 
 [Introducing MoneyCRV - A New Stablecoin Pool with Vesting Rewards](https://yieldyak.medium.com/introducing-moneycrv-a-new-stablecoin-pool-with-vesting-rewards-a9a24f84e1e1)
+
+[MakerDAO Auction Assessment by Gauntlet](https://maker-report.gauntlet.network/)
+
+[What keeps Stablecoins Stable?](https://ganeshvnatraj.netlify.app/files/StablecoinsSSRNMay2021.pdf)
+
+[A Classification Framework for Stablecoin Designs](https://arxiv.org/pdf/1910.10098.pdf)
 
 []()
 
@@ -46,6 +56,10 @@
 
 [Option Flows - Commentary by Tony Stewart](https://insights.deribit.com/option-flows/)
 
+[A Deep Dive into Dopex and Ribbon](https://theknower.substack.com/p/a-deep-dive-into-dopex-and-ribbon?s=r)
+
+
+[]()
 
 ## Fixed income Products
 
