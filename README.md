@@ -118,6 +118,10 @@
 
 [Synthetix V3/A Little Dash of Hopium](https://blog.synthetix.io/a-little-dash-of-hopium/)
 
+## On-chain Volatility
+
+[On-chain Volatility and Uniswap V3](https://lambert-guillaume.medium.com/on-chain-volatility-and-uniswap-v3-d031b98143d1)
+
 ## DeFi Degen Vaults
 
 [Brahma Finance](https://www.brahma.fi/)
@@ -176,6 +180,8 @@
 [Illiquidity and Bank Run Risk in Defi](https://medium.com/alethio/overlooked-risk-illiquidity-and-bank-runs-on-compound-finance-5d6fc3922d0d)
 
 [Introducing the Kelly Machine](https://potion-protocol.medium.com/introducing-the-kelly-machine-53c0a9863af7)
+
+[How to deploy delta-neutral liquidity in Uniswap — or why Euler Finance is a game changer for liquidity providers](https://lambert-guillaume.medium.com/how-to-deploy-delta-neutral-liquidity-in-uniswap-or-why-euler-finance-is-a-game-changer-for-lps-1d91efe1e8ac)
 
 ## NFTs in DeFi
 
