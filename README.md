@@ -183,6 +183,8 @@
 
 [How to deploy delta-neutral liquidity in Uniswap — or why Euler Finance is a game changer for liquidity providers](https://lambert-guillaume.medium.com/how-to-deploy-delta-neutral-liquidity-in-uniswap-or-why-euler-finance-is-a-game-changer-for-lps-1d91efe1e8ac)
 
+[A Position Safety Framework and The New Era of Position Exploits](https://medium.com/gamma-strategies/a-position-safety-framework-and-the-new-era-of-position-exploits-7dcf2fc4110a)
+
 ## NFTs in DeFi
 
 [veNFTs](https://andrecronje.medium.com/ve-3-3-44466eaa088b)
