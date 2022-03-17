@@ -20,6 +20,10 @@
 
 ## Cryptocurrencies and DeFi (General)
 
+[Participants in a DeFi Protocol Ecosystem](https://vadymnesterenko.medium.com/participants-in-a-defi-protocol-ecosystem-c0fcc40e033d)
+
+[Organic Growth in DeFi](https://vadymnesterenko.medium.com/organic-growth-in-defi-19f4d71c0c9f)
+
 [Cryptocurrencies and Velocity of Money](https://cryptoeconomicsystems.pubpub.org/pub/pernice-cryptocurrencies-velocity/release/9)
 
 [Valuation Divergence in DeFi: Narrative or Data Matters?](https://llamacorn888.medium.com/valuation-divergence-in-defi-narrative-or-data-matters-17e8ffbf9744)
