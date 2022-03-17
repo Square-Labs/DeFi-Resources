@@ -229,6 +229,21 @@
 
 [Making Sense of Rollups, Part 2: Dispute Resolution on Arbitrum and Optimism](https://insights.deribit.com/market-research/making-sense-of-rollups-part-2-dispute-resolution-on-arbitrum-and-optimism/)
 
+## Resources
+
+[Uniswap V3 Strategy Simulator](https://defi-lab.xyz/uniswapv3simulator)
+
+[Beets Wars Bribes](https://www.beetswars.xyz/)
+
+[DAI Numbers at a Glance](https://daistats.com/#/)
+
+[Tracking $CVX Owned by DAOs](https://daocvx.com/)
+
+[Explore the Solana Blockchain: Statistics, Validators, Token Metrics and News About the Overall Ecosystem](https://solanabeach.io/)
+
+[Track Statistics on Curve and Convex](https://llama.airforce/)
+
+
 ## Youtube Channels
 
 [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
