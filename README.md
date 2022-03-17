@@ -110,7 +110,13 @@
 
 [Synthetix V3/A Little Dash of Hopium](https://blog.synthetix.io/a-little-dash-of-hopium/)
 
+## DeFi Degen Vaults
 
+[Brahma Finance](https://www.brahma.fi/)
+
+## Decentralized Copy Trading
+
+[SanR L2 Platform](https://www.notion.so/SanR-L2-Platform-4921a73cb18e4467897e45936544d068)
 
 ## Fixed income Products/Interest Rate Derivatives
 
