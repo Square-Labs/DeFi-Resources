@@ -39,6 +39,7 @@
 
 [Generalized Mining: The LPs Perspective](https://medium.com/cambrial-capital/generalised-mining-the-lps-perspective-72dfa2d22afd)
 
+[Uniswap V3 LP Tokens as Perpetual Put and Call Options](https://lambert-guillaume.medium.com/uniswap-v3-lp-tokens-as-perpetual-put-and-call-options-5b66219db827)
 
 
 ## Money Market Protocols
@@ -104,6 +105,9 @@
 [Butterfly Options Trading Strategy](https://insights.deribit.com/industry/butterfly-options-trading-strategy/)
 
 [Option Model Delta and Its Considerations](https://insights.deribit.com/market-research/option-model-delta-and-considerations/)
+
+[Uniswap V3 LP Tokens as Perpetual Put and Call Options](https://lambert-guillaume.medium.com/uniswap-v3-lp-tokens-as-perpetual-put-and-call-options-5b66219db827)
+
 
 ## Prediction Markets
 
