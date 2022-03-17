@@ -41,6 +41,7 @@
 
 [Uniswap V3 LP Tokens as Perpetual Put and Call Options](https://lambert-guillaume.medium.com/uniswap-v3-lp-tokens-as-perpetual-put-and-call-options-5b66219db827)
 
+[Historical Performances of Uniswap L3 Pools](https://defi-lab.medium.com/historical-performances-of-uniswap-l3-pools-2de713f7c70f)
 
 ## Money Market Protocols
 
