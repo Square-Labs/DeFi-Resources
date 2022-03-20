@@ -43,6 +43,10 @@
 
 [Historical Performances of Uniswap L3 Pools](https://defi-lab.medium.com/historical-performances-of-uniswap-l3-pools-2de713f7c70f)
 
+## DeFi Base Primitives
+
+
+
 ## Money Market Protocols
 
 [Venus Interest Rate Model](https://blog.venus.io/venus-interest-rate-model-v1-347f551289c4?gi=871b764147d5)
@@ -168,6 +172,9 @@
 
 [Exploring Goldfinch: Crypto Loans without Collateral](https://medium.com/goldfinch-fi/introducing-goldfinch-crypto-loans-without-collateral-fc0cad9d13e)
 
+[RociFi: A New Multi-Chain DeFi Primitive For Zero And Under-Collateralized Lending Based On Decentralized Identity and On-Chain Reputation](https://blog.roci.fi/rocifi-a-new-multi-chain-defi-primitive-for-zero-and-under-collateralized-lending-based-on-709daf186d54)
+
+
 ## Web3 and Metaverse
 
 [web3's Role in the Metaverse](https://messari.io/article/web3-s-role-in-the-metaverse)
@@ -186,11 +193,13 @@
 
 [A Position Safety Framework and The New Era of Position Exploits](https://medium.com/gamma-strategies/a-position-safety-framework-and-the-new-era-of-position-exploits-7dcf2fc4110a)
 
-## NFTs in DeFi
+## NFTs
 
 [veNFTs](https://andrecronje.medium.com/ve-3-3-44466eaa088b)
 
 [Can NFTs Revitalize this DeFi Cycle?](https://polygondefi.substack.com/p/can-nfts-revitalize-this-defi-cycle?s=r)
+
+[Abacus Spot Remastered: NFT valuation using optimistic proof of stake](https://medium.com/abacus-wtf/abacus-spot-remastered-nft-valuation-using-optimistic-proof-of-stake-ce7d7be8cdda)
 
 
 ## DeFi Infrastructure
