@@ -116,8 +116,13 @@
 
 ## Prediction Markets
 
+[On-Screen Dopamine Markets on Polygon](https://polygondefi.substack.com/p/on-screen-dopamine-markets-on-polygon)
+
 [The Problem with Prediction Markets](https://insights.deribit.com/market-research/the-problem-with-prediction-markets/)
 
+[Onboarding The Next Billion With Games](https://www.decentralised.co/onboarding-the-next-billion-with-games/)
+
+[How ZKasino will handle randomness on StarkNet](https://zkasino.medium.com/how-zkasino-will-handle-randomness-on-starknet-9bf1531b1236)
 
 ## Synthetic Assets
 
