@@ -249,6 +249,8 @@
 
 [Beets Wars Bribes](https://www.beetswars.xyz/)
 
+[DeepDAO's Treasury Data Aggregator](https://deepdao.io/organizations)
+
 [DAI Numbers at a Glance](https://daistats.com/#/)
 
 [Tracking $CVX Owned by DAOs](https://daocvx.com/)
