@@ -87,6 +87,10 @@
 
 ## Derivatives
 
+[A Game of Premiums Through A Myriad of Complexities! — A Deep-Dive into On-Chain Option Protocols](https://polygontech.medium.com/a-game-of-premiums-through-a-myriad-of-complexities-a-deep-dive-into-on-chain-option-protocols-d9619fe99278)
+
+[Capital Inefficiency and DeFi Options](https://nopeitslily.substack.com/p/capital-inefficiency-and-defi-options?s=r)
+
 [Ramblings on DeFi Derivatives](https://mirror.xyz/0x0C23E0dE114d28112f52203cb9583B9826b05dDe/8W5T5qFJerprS92FCF9858HFU-juoqoLJFwdEaH2re4)
 
 [Comparison of Decentralized Options Platforms](https://medium.com/coinmonks/an-update-of-a-comparison-of-decentralized-options-platforms-91b14d3a6170)
@@ -113,6 +117,13 @@
 
 [Uniswap V3 LP Tokens as Perpetual Put and Call Options](https://lambert-guillaume.medium.com/uniswap-v3-lp-tokens-as-perpetual-put-and-call-options-5b66219db827)
 
+## Token Economics and Psychology
+
+[On the meme of market caps & unlocks](https://cobie.substack.com/p/on-the-meme-of-market-caps-and-unlocks?s=r)
+
+[Tokens in The Attention Economy](https://cobie.substack.com/p/tokens-in-the-attention-economy?s=r)
+
+[Examining the Emotional Drivers for ‘Locking Tokens’](https://beethovenxio.medium.com/examining-the-emotional-drivers-for-locking-tokens-aa5e37e5509e)
 
 ## Prediction Markets
 
