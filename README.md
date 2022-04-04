@@ -45,6 +45,7 @@
 
 ## DeFi Base Primitives
 
+[Consensus Capital Markets - Alkimiya](https://www.aniccaresearch.tech/blog/consensus-capital-markets)
 
 
 ## Money Market Protocols
@@ -53,6 +54,8 @@
 
 ## Automated Market Makers
 
+[Financial Infrastructures for Crypto Games](https://kydo.substack.com/p/blog-financial-infrastructures-for)
+
 [Automated Market Makers for Decentralized Finance](https://arxiv.org/pdf/2009.01676.pdf)
 
 [Design of a Betting Market (SportX) AMM](https://docs.sportx.bet/sportx-roadmap/sportx-amm)
@@ -60,6 +63,8 @@
 [Single Vault Model - The Lego Baseplate](https://insights.deribit.com/market-research/single-vault-model-the-lego-baseplate/)
 
 [Constant Function Market Makers](https://arxiv.org/pdf/2003.10001.pdf)
+
+[Designing a Constant Volatility AMM](https://lambert-guillaume.medium.com/designing-a-constant-volatility-amm-e167278b5d61)
 
 ## Yield and Interest Rates
 
