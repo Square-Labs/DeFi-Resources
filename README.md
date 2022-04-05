@@ -259,7 +259,7 @@
 
 [Making Sense of Rollups, Part 2: Dispute Resolution on Arbitrum and Optimism](https://insights.deribit.com/market-research/making-sense-of-rollups-part-2-dispute-resolution-on-arbitrum-and-optimism/)
 
-## Resources
+## Tools and Resources
 
 [Uniswap V3 Strategy Simulator](https://defi-lab.xyz/uniswapv3simulator)
 
