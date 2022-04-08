@@ -66,6 +66,8 @@
 
 [Designing a Constant Volatility AMM](https://lambert-guillaume.medium.com/designing-a-constant-volatility-amm-e167278b5d61)
 
+[Automated Market Makers (AMMs): Versioning Up](https://ambergroup.medium.com/automated-market-makers-amms-versioning-up-2c8a81e9889f)
+
 ## Yield and Interest Rates
 
 [Incentivizing Pool Balances with Interest Rate Models](https://medium.com/platypus-finance/incentivizing-pool-balances-with-interest-rate-model-9302ff9f9cf4)
