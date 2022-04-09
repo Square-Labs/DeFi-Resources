@@ -271,6 +271,10 @@
 
 [DAI Numbers at a Glance](https://daistats.com/#/)
 
+[MakerDAO Risk Dashboard](https://maker.blockanalitica.com/)
+
+[Dashboard for watching DAI minting and MKR token burning in real time](https://makerburn.com/#/)
+
 [Tracking $CVX Owned by DAOs](https://daocvx.com/)
 
 [Explore the Solana Blockchain: Statistics, Validators, Token Metrics and News About the Overall Ecosystem](https://solanabeach.io/)
