@@ -288,6 +288,8 @@
 
 [Crypto Startup School - Learn How to Build A Crypto Company by A16Z](https://a16z.com/crypto-startup-school/)
 
+[Options Course by Deribit](https://insights.deribit.com/options-course/)
+
 
 ## Youtube Channels
 
