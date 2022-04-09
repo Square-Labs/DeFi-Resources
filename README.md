@@ -286,6 +286,8 @@
 
 [Terra Analytics by Smart Stake](https://terra.smartstake.io/)
 
+[Crypto Startup School - Learn How to Build A Crypto Company by A16Z](https://a16z.com/crypto-startup-school/)
+
 
 ## Youtube Channels
 
