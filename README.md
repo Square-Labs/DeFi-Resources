@@ -76,6 +76,7 @@
 
 [There ain't no such thing as free APR © Reverse-engineering professional validators and brrr.](https://lobsters.substack.com/p/there-aint-no-such-thing-as-free?s=r)
 
+[Introducing veRev — a Yield Distribution Mechanism](https://uxdprotocol.medium.com/introducing-verev-a-yield-distribution-mechanism-c9243fbbfe3e)
 
 ## Stablecoins
 
