@@ -93,6 +93,42 @@
 [On the Economic Design of Stablecoins](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3899499)
 
 
+## MEV Github Repos
+
+[Get Started on MEV](https://docs.flashbots.net/new-to-mev)
+
+[Twitter Thread Explaining MEV](https://twitter.com/analyticalali/status/1541546241313501184)
+
+### Sandwich
+
+[Subway - A practical example on how to perform sandwich attacks on UniswapV2 pairs](https://github.com/libevm/subway)
+
+[Optimal Sandwich](https://github.com/mevcheb/optimal-sandwich)
+
+### Arbitrage
+
+[AMM Arbitrageur](https://github.com/paco0x/amm-arbitrageur)
+
+[q-evm](https://github.com/sambacha/q-evm)
+
+[Uniswap Arbitrage Analysis](https://github.com/ccyanxyz/uniswap-arbitrage-analysis)
+
+### Liquidation
+
+[A script for liquidating undercollateralized account on Mango Markets](https://github.com/blockworks-foundation/liquidator-v3)
+
+[AAVE Liquidation Script](https://github.com/ialberquilla/aave-liquidation)
+
+### Sniping
+
+[NFTX BAYC Flash Borrow](https://github.com/davidiola/nftx-bayc-flash-borrow/tree/master/src)
+
+[A mempool sniping bot for Ethereum, Binance Smart Chain, Matic, & Fantom that is able to scan for new liquidity adds on token launches, so as to be able to buy a token as soon as liquidity is (added in the same block)](https://github.com/CryptoGnome/Limit-Sniper)
+
+[Allows sniping pool creation events for Uniswap V2-styled routers in under 250 LOC](https://github.com/Anish-Agnihotri/pool-sniper)
+
+[Binance Alpha Bot](https://github.com/duckdegen/apebot)
+
 ## Derivatives
 
 [A Game of Premiums Through A Myriad of Complexities! — A Deep-Dive into On-Chain Option Protocols](https://polygontech.medium.com/a-game-of-premiums-through-a-myriad-of-complexities-a-deep-dive-into-on-chain-option-protocols-d9619fe99278)
