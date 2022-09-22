@@ -326,6 +326,10 @@
 
 [Options Course by Deribit](https://insights.deribit.com/options-course/)
 
+[Smart Contract Blogs - Noxx](https://noxx.substack.com/)
+
+[Smart Contract Blogs - Degen Code](https://degencode.substack.com/)
+
 
 ## Youtube Channels
 
